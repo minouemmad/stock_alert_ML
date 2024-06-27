@@ -66,4 +66,4 @@ This document outlines the phases of the insider trading stock prediction projec
 - XGBoost (optional, depending on model choice)
 - matplotlib (for visualization)
 
-
+This code is intended to be an extra feature to Carlo Tran's Stock Alert app.
