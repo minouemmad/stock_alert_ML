@@ -39,4 +39,7 @@ def fetch_data():
 
 if __name__ == "__main__":
     data = fetch_data()
-    data.to_csv('insider_trading_data.csv', index=False)
+    
+    # Save data to Pickle format
+    data.to_pickle('insider_trading_data.pkl')
+    print("Data saved to Pickle format.")
