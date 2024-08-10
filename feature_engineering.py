@@ -1,3 +1,4 @@
+#feature_engineering.py
 import pandas as pd
 import numpy as np
 import os
@@ -54,10 +55,10 @@ if __name__ == "__main__":
             # Engineer features
             feature_data = engineer_features(data)
             
-            # Save engineered features in various formats
+            feature_data.to_parquet('features.parquet', engine='pyarrow')
+            # Save engineered features in various formats except HDF5
             feature_data.to_csv('features.csv', index=False)
             feature_data.to_pickle('features.pkl')
-            feature_data.to_hdf('features.h5', key='df', mode='w')
             feature_data.to_parquet('features.parquet')
             feature_data.to_feather('features.feather')
             
