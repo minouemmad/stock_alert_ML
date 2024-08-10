@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import os
 
 def engineer_features(df):
     # Rename columns for consistency
@@ -34,22 +35,33 @@ def engineer_features(df):
     # Select relevant features
     relevant_columns = [
         'date', 'ticker', 'transaction_type', 'log_price', 'value_in_thousands', 
-        'num_shares', 'hour_of_day', 'price_lag_1', 'price_lag_2'
+        'num_shares', 'hour_of_day', 'price_lag_1', 'price_lag_2',
+        'owner_type', 'percent_change_in_shares', 'division', 'major_group'
     ]
     
     df = df[relevant_columns]
     return df
 
 if __name__ == "__main__":
-    # Read data from Pickle file
-    data = pd.read_pickle('insider_trading_data.pkl')
-    
-    # Engineer features
-    feature_data = engineer_features(data)
-    
-    # Save engineered features in various formats
-    feature_data.to_csv('features.csv', index=False)
-    feature_data.to_pickle('features.pkl')
-    feature_data.to_hdf('features.h5', key='df', mode='w')
-    feature_data.to_parquet('features.parquet')
-    feature_data.to_feather('features.feather')
+    # Check if the environment variables are set
+    if not os.path.exists('insider_trading_data.pkl'):
+        print("Pickle file not found. Ensure that data_extraction.py has been run successfully.")
+    else:
+        try:
+            # Read data from Pickle file
+            data = pd.read_pickle('insider_trading_data.pkl')
+            
+            # Engineer features
+            feature_data = engineer_features(data)
+            
+            # Save engineered features in various formats
+            feature_data.to_csv('features.csv', index=False)
+            feature_data.to_pickle('features.pkl')
+            feature_data.to_hdf('features.h5', key='df', mode='w')
+            feature_data.to_parquet('features.parquet')
+            feature_data.to_feather('features.feather')
+            
+            print("Feature engineering completed and data saved in multiple formats.")
+        
+        except ModuleNotFoundError as e:
+            print(f"Error: {e}. Make sure all required modules are installed.")
