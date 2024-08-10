@@ -66,4 +66,10 @@ This document outlines the phases of the insider trading stock prediction projec
 - XGBoost (optional, depending on model choice)
 - matplotlib (for visualization)
 
+This project utilizes additional columns in the feature engineering process to capture more nuanced insights about insider trading activities:
+
+owner_type: Provides insight into the role of the insider (e.g., CEO, CFO, 10% owner).
+percent_change_in_shares: Reflects the magnitude of the trade relative to the insider's previous holdings.
+division, major_group, industry_group, sic: Describe the industry sector the company belongs to, offering critical context for stock price movements.
+
 This code is intended to be an extra feature to Carlo Tran's Stock Alert app.
