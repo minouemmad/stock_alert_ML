@@ -1,0 +1,498 @@
+date,ticker,transaction_type,log_price,value_in_thousands,num_shares,hour_of_day,price_lag_1,price_lag_2,owner_type,percent_change_in_shares,division,major_group
+2033-01-10,AXAS,0,0.5709795465857378,-2.31,-3000.0,0,0.0,3.5316406776874447,Former VP CAO,-2.0,Mining,Oil And Gas Extraction
+2032-02-15,NA,0,4.1595078881285135,-47.693,-756.559,0,0.5709795465857378,0.0,"Director, See Remarks",-3.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2031-03-05,BKJ,0,0.0,0.0,5000.0,0,4.1595078881285135,0.5709795465857378,Director,27.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2031-01-31,CUZ,0,2.2925347571405443,-11.953,-1343.0,0,0.0,4.1595078881285135,EVP,-5.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2031-01-29,AMP,0,0.0,0.0,6630.0,0,2.2925347571405443,0.0,Executive VP and CFO,38.0,"Finance, Insurance, And Real Estate","Security And Commodity Brokers, Dealers, Exchanges, And Services"
+2030-03-19,CALB,0,0.0,0.0,1200.0,0,0.0,2.2925347571405443,Chief Technology Officer,6.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2030-03-19,CALB,0,0.0,0.0,1350.0,0,0.0,0.0,SEVP and Chief Banking Officer,6.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2030-03-19,CALB,0,0.0,0.0,1350.0,0,0.0,0.0,"SEVP, Chief Lending Offier",15.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2030-03-19,CALB,0,0.0,0.0,1500.0,0,0.0,0.0,See Remarks,14.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2030-03-19,CALB,0,0.0,0.0,1700.0,0,0.0,0.0,"Director, See Remarks",3.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2029-04-01,SHYF,0,2.5967461315435356,-20.692,-1666.0,0,0.0,0.0,VP Chief Accounting Officer,-2.0,Manufacturing,Transportation Equipment
+2029-02-25,BGS,0,3.2386784521643803,-270.161,-11027.0,0,2.5967461315435356,0.0,"Director, President & CEO",-5.0,Manufacturing,Food And Kindred Products
+2028-06-25,IIIV,0,0.0,0.0,34868.0,0,3.2386784521643803,2.5967461315435356,Chief Technology Officer,inf,Services,Business Services
+2028-05-24,TMUS,-1,5.12924761542983,-63687.392,-379340.0,0,0.0,3.2386784521643803,"Director, 10% Owner",0.0,Transportation and Utilities,Communications
+2027-02-17,LSCC,0,4.307303088477945,-170.21,-2324.0,0,5.12924761542983,0.0,"SVP, CTO",-1.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2025-07-17,TWFG,0,0.0,0.0,34044396.0,0,4.307303088477945,5.12924761542983,"Director, President and CEO, 10% Owner",-22608.0,-1,-1
+2025-05-10,VSH,1,3.1612467120315646,201.795,8929.0,0,0.0,4.307303088477945,Director,119.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2025-03-15,INSW,0,0.0,0.0,-4351.0,0,3.1612467120315646,0.0,"Director, President & CEO",-3.0,Transportation and Utilities,Water Transportation
+2024-12-31,NA,0,2.570319527636131,-3351.73,-277691.0,0,0.0,3.1612467120315646,10% Owner,-60.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-12-20,JOE,0,0.0,0.0,2793.0,0,2.570319527636131,0.0,SVP & Chief Admin. Officer,53.0,"Finance, Insurance, And Real Estate",Real Estate
+2024-08-09,Z AND ZG,-1,3.9427461780709865,-7584.0,-150000.0,0,0.0,2.570319527636131,"Director, Co -Exec. Chairman & President, Co-Founder",-4.0,Services,Business Services
+2024-08-09,KVYO,-1,3.4346321577483927,-653.415,-21766.0,0,3.9427461780709865,0.0,Chief Legal Officer,-8.0,Services,Business Services
+2024-08-09,TMCI,0,0.0,0.0,60450.0,0,3.4346321577483927,3.9427461780709865,"SVP, Sales",57.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-09,REAL,1,1.2556160374777743,49.997,19919.0,0,0.0,3.4346321577483927,"Director, Chief Executive Officer",1.0,Retail Trade,Miscellaneous Retail 
+2024-08-09,LNKB,1,1.9851308622085946,44.462,7080.0,0,1.2556160374777743,0.0,Chief Risk Officer,983.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-09,SHEN,1,2.7631695003232895,274.725,18500.0,0,1.9851308622085946,1.2556160374777743,President & CEO,1.0,Transportation and Utilities,Communications
+2024-08-09,ZETA,0,0.0,0.0,-308392.0,0,2.7631695003232895,1.9851308622085946,"Director, Chief Executive Officer, 10% Owner",-77.0,Services,Business Services
+2024-08-09,PFSI,0,0.0,0.0,-10000.0,0,0.0,2.7631695003232895,"Director, Chairman & CEO",-1.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-09,DKNG,0,3.444895236927875,-560.623,-18478.0,0,0.0,0.0,"Director, See Remarks",-1.0,Services,Amusement And Recreation Services
+2024-08-09,TMCI,0,0.0,0.0,120900.0,0,3.444895236927875,0.0,Chief Innovation Officer,127.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-09,EXEL,0,3.2351427973320726,3051.25,125000.0,0,0.0,0.0,EVP and CFO,17.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-09,BXP,0,0.0,0.0,4785.0,0,3.2351427973320726,0.0,Executive Vice President,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-09,RYAN,-1,4.150252194160397,-124900.0,-2000000.0,0,0.0,3.2351427973320726,"Director, President",-100.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-09,KVYO,0,0.0,0.0,42000.0,0,4.150252194160397,0.0,Chief Financial Officer,9.0,Services,Business Services
+2024-08-09,DKNG,0,0.0,0.0,28309.0,0,0.0,4.150252194160397,"Director, See Remarks",5.0,Services,Amusement And Recreation Services
+2024-08-09,CSWC,1,3.2164729402518906,9.72,406.0,0,0.0,0.0,Director,3.0,-1,-1
+2024-08-09,POWL,-1,5.104247062719534,-450.23,-2750.0,0,3.2164729402518906,0.0,"Director, President & CEO",-2.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-09,SKWD,-1,3.634159241913703,-60.946,-1653.0,0,5.104247062719534,3.2164729402518906,Director,-29.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-09,TMCI,0,0.0,0.0,207260.0,0,3.634159241913703,5.104247062719534,Chief Financial Officer,128.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-09,Z AND ZG,-1,3.94565118640813,-17.901,-353.0,0,0.0,3.634159241913703,Director,-25.0,Services,Business Services
+2024-08-09,PIPR,-1,5.551912525318075,-459.29,-1789.0,0,3.94565118640813,0.0,General Counsel,-11.0,"Finance, Insurance, And Real Estate","Security And Commodity Brokers, Dealers, Exchanges, And Services"
+2024-08-09,VTOL,-1,3.6399517804905126,-111.27,-3000.0,0,5.551912525318075,3.94565118640813,Director,-8.0,Transportation and Utilities,Transportation By Air
+2024-08-09,SWIM,-1,1.801709800081223,-51.303,-10139.0,0,3.6399517804905126,5.551912525318075,VICE PRESIDENT & CONTROLLER,-21.0,Manufacturing,Rubber And Miscellaneous Plastics Products
+2024-08-09,CHE,0,6.361837740166604,-4390.53,-7592.0,0,1.801709800081223,3.6399517804905126,executive vice president,-27.0,Services,Health Services
+2024-08-09,RYAN,0,0.0,0.0,0.0,0,6.361837740166604,1.801709800081223,"Director, President",0.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-09,PGY,-1,2.8231630082027146,-183.644,-11601.0,0,0.0,6.361837740166604,"Director, Chief Technology Officer",-3.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-09,LPX,-1,4.575741375297279,-76.88,-800.0,0,2.8231630082027146,0.0,Director,-3.0,Manufacturing,"Lumber And Wood Products, Except Furniture"
+2024-08-09,GOOD,1,2.7479117345273405,9.497,650.0,0,4.575741375297279,2.8231630082027146,Chief Financial Officer,4.0,"Finance, Insurance, And Real Estate",Real Estate
+2024-08-09,PHX,1,1.4586150226995167,9.9,3000.0,0,2.7479117345273405,4.575741375297279,SVP - CFO,1.0,Mining,Oil And Gas Extraction
+2024-08-09,VMEO,1,1.749199854809259,95.0,20000.0,0,1.4586150226995167,2.7479117345273405,Director,6.0,Services,Business Services
+2024-08-09,TMCI,0,0.0,0.0,129540.0,0,1.749199854809259,1.4586150226995167,"Chief Legl & Comp Off, CorpSec",120.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-09,DKNG,0,3.444895236927875,-415.294,-13688.0,0,0.0,1.749199854809259,"Director, See Remarks",0.0,Services,Amusement And Recreation Services
+2024-08-09,CRDO,-1,3.3488509012899463,-1510.85,-55000.0,0,3.444895236927875,0.0,"Director, Chief Technology Officer",-1.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-09,DKNG,0,0.0,0.0,14155.0,0,3.3488509012899463,3.444895236927875,Chief Legal Officer,6.0,Services,Amusement And Recreation Services
+2024-08-09,AXSM,0,1.6174060820832772,192.866,47739.0,0,0.0,3.3488509012899463,Chief Operating Officer,826.0,Manufacturing,Chemicals And Allied Products
+2024-08-09,SWIM,-1,1.8050046959780757,-20.025,-3942.0,0,1.6174060820832772,0.0,GENERAL COUNSEL & SECRETARY,-1.0,Manufacturing,Rubber And Miscellaneous Plastics Products
+2024-08-09,RSI,-1,2.3513752571634776,-1425.0,-150000.0,0,1.8050046959780757,1.6174060820832772,Director,-100.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-09,UFCS,1,2.9652730660692823,64.4,3500.0,0,2.3513752571634776,1.8050046959780757,Director,5.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-09,SEZL,-1,4.723308714005133,-1673.1,-15000.0,0,2.9652730660692823,2.3513752571634776,Former Director,-5.0,Services,Business Services
+2024-08-09,DKNG,0,3.444895236927875,-415.294,-13688.0,0,4.723308714005133,2.9652730660692823,"Director, See Remarks",-2.0,Services,Amusement And Recreation Services
+2024-08-09,ZETA,0,0.0,0.0,-70300.0,0,3.444895236927875,4.723308714005133,"Senior Vice President, Finance",-29.0,Services,Business Services
+2024-08-09,KVYO,-1,3.441379171294987,-1813.8,-60000.0,0,0.0,3.444895236927875,Chief Financial Officer,-12.0,Services,Business Services
+2024-08-09,DBD,1,3.6816030451431603,54.194,1400.0,0,3.441379171294987,0.0,"EVP, CFO",3.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-09,SHEN,1,2.7880929087757464,76.858,5039.89,0,3.6816030451431603,3.441379171294987,SVP Finance & CFO,13.0,Transportation and Utilities,Communications
+2024-08-09,EXEL,-1,3.338967305126021,-3398.75,-125000.0,0,2.7880929087757464,3.6816030451431603,EVP and CFO,-15.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-09,RXST,0,2.3711778844596574,96.615,9950.0,0,3.338967305126021,2.7880929087757464,"Director, President & CEO",1.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-09,Z AND ZG,0,3.5298837226234783,4968.0,150000.0,0,2.3711778844596574,3.338967305126021,"Director, Co -Exec. Chairman & President, Co-Founder",4.0,Services,Business Services
+2024-08-09,ZETA,0,0.0,0.0,-80451.0,0,3.5298837226234783,2.3711778844596574,President & COO,-4.0,Services,Business Services
+2024-08-09,PGY,-1,2.8201877010390604,-184.026,-11662.0,0,0.0,3.5298837226234783,"Director, Chief Revenue Officer",-4.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-09,AXSM,-1,4.445705411337064,-4022.488,-47739.0,0,2.8201877010390604,0.0,Chief Operating Officer,-89.0,Manufacturing,Chemicals And Allied Products
+2024-08-09,SPGI,0,0.0,0.0,-200.0,0,4.445705411337064,2.8201877010390604,"Director, President, S&P Global Ratings",-3.0,Manufacturing,"Printing, Publishing, And Allied Industries"
+2024-08-09,CHE,0,6.026324805743916,3718.71,9000.0,0,0.0,4.445705411337064,executive vice president,48.0,Services,Health Services
+2024-08-09,ZETA,0,0.0,0.0,-116789.0,0,6.026324805743916,0.0,Chief Financial Officer,-7.0,Services,Business Services
+2024-08-09,DOCS,-1,3.58351893845611,-1050.0,-30000.0,0,0.0,6.026324805743916,Chief Financial Officer,-9.0,Services,Business Services
+2024-08-09,DBD,1,3.6464937376174986,41.074,1100.0,0,3.58351893845611,0.0,"Director, President and CEO",1.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-09,KVYO,0,0.0,0.0,16218.0,0,3.6464937376174986,3.58351893845611,Chief Legal Officer,6.0,Services,Business Services
+2024-08-09,SMRT,0,0.0,0.0,2099.0,0,0.0,3.6464937376174986,Chief Marketing Officer,6.0,Services,Business Services
+2024-08-09,DKNG,0,0.0,0.0,28309.0,0,0.0,0.0,"Director, See Remarks",1.0,Services,Amusement And Recreation Services
+2024-08-09,BHRB,1,4.0943445622221,29.5,500.0,0,0.0,0.0,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-09,DKNG,0,3.444895236927875,-187.258,-6172.0,0,4.0943445622221,0.0,Chief Legal Officer,-2.0,Services,Amusement And Recreation Services
+2024-08-09,SFM,-1,4.576359104133972,-2005.032,-20851.0,0,3.444895236927875,4.0943445622221,Director,-53.0,Retail Trade,Food Stores
+2024-08-09,SMRT,0,0.9242589015233319,-1.336,-879.0,0,4.576359104133972,3.444895236927875,Chief Marketing Officer,-2.0,Services,Business Services
+2024-08-08,WING,-1,5.923480095566111,-1192.299,-3199.0,0,0.9242589015233319,4.576359104133972,SVP Corp Restaurants & CPO,-97.0,Retail Trade,Eating And Drinking Places
+2024-08-08,BA,0,0.0,0.0,47997.0,0,5.923480095566111,0.9242589015233319,"Director, President & CEO",inf,Manufacturing,Transportation Equipment
+2024-08-08,TENX,1,0.0,0.0,1666.0,0,0.0,5.923480095566111,Director,166600.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-08,ML,1,3.871201010907891,470.0,10000.0,0,0.0,0.0,Director,25.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,TEAM,-1,4.937132267131418,-1099.765,-7948.0,0,3.871201010907891,0.0,"Director, Co-CEO, Co-Founder, 10% Owner",-3.0,Services,Business Services
+2024-08-08,LC,-1,2.4203681286504293,-174.25,-17000.0,0,4.937132267131418,3.871201010907891,"Director, CEO",-1.0,Services,Business Services
+2024-08-08,ENVX,0,2.558776498354456,-17.737,-1488.0,0,2.4203681286504293,4.937132267131418,Chief Operating Officer,0.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,VTOL,0,0.0,0.0,-4108.0,0,2.558776498354456,2.4203681286504293,"Director, President and CEO",-1.0,Transportation and Utilities,Transportation By Air
+2024-08-08,NUVL,-1,4.250065437218876,-207.33,-3000.0,0,0.0,2.558776498354456,Chief Legal Officer,-8.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,CBKM,1,2.89591193827178,5.13,300.0,0,4.250065437218876,0.0,"Director, CEO & President",0.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-08,FLEX,0,0.0,0.0,6889.0,0,2.89591193827178,4.250065437218876,Director,11.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,FLEX,0,0.0,0.0,6889.0,0,0.0,2.89591193827178,Director,26.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,MCO,0,5.144816475562275,317.545,1862.0,0,0.0,0.0,SVP - General Counsel,50.0,Services,Business Services
+2024-08-08,NINE,-1,0.9321640810304452,-18.206,-11822.0,0,5.144816475562275,0.0,See Remarks,-6.0,Mining,Oil And Gas Extraction
+2024-08-08,FLEX,0,0.0,0.0,6889.0,0,0.9321640810304452,5.144816475562275,Director,47.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,PNW,-1,4.457597821520956,-230.256,-2700.0,0,0.0,0.9321640810304452,"VP, Finance and Treasurer",-60.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-08,OSUR,0,1.7209792871670078,-87.752,-19118.0,0,4.457597821520956,0.0,Chief Financial Officer,-6.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-08,(SIRI),-1,1.425515074273172,-4573.272,-1447238.0,0,1.7209792871670078,4.457597821520956,Pres. & Chief Content Officer,-57.0,Transportation and Utilities,Communications
+2024-08-08,MSI,0,0.0,0.0,-9316.0,0,1.425515074273172,1.7209792871670078,"Director, Chairman and CEO",-2.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,MCO,-1,6.123435347641878,-848.011,-1862.0,0,0.0,1.425515074273172,SVP - General Counsel,-29.0,Services,Business Services
+2024-08-08,NUVL,0,2.065596134857783,20.67,3000.0,0,6.123435347641878,0.0,Chief Legal Officer,9.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,2.065596134857783,6.123435347641878,Director,19.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,XRAY,1,3.232778730037192,199.962,8212.0,0,0.0,2.065596134857783,Director,11.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-08,DIS,1,4.455044727410454,999.965,11756.0,0,3.232778730037192,0.0,Director,111.0,Services,Amusement And Recreation Services
+2024-08-08,APVO,0,0.0,0.0,314.0,0,4.455044727410454,3.232778730037192,"EVP, COO",37.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,GDRX,0,2.262804222982201,-38.909,-4519.0,0,0.0,4.455044727410454,Chief Accounting Officer,-3.0,Services,Business Services
+2024-08-08,APVO,0,0.0,0.0,158.0,0,2.262804222982201,0.0,"SVP, CFO",38.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,INTA,0,1.6074359097634274,39.9,10000.0,0,0.0,2.262804222982201,Chief Product Officer,1.0,Services,Business Services
+2024-08-08,WPC,-1,4.056123349401903,-28.375,-500.0,0,1.6074359097634274,0.0,Chief Accounting Officer,-6.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,PAYC,-1,5.066511404655174,-240.213,-1524.0,0,4.056123349401903,1.6074359097634274,Chief Information Officer,-2.0,Services,Business Services
+2024-08-08,QCOM,-1,5.1033967741775665,-490.74,-3000.0,0,5.066511404655174,4.056123349401903,CFO & COO,-5.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,VMEO,1,1.728109442151599,20.131,4348.0,0,5.1033967741775665,5.066511404655174,Chief Financial Officer,0.0,Services,Business Services
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,1.728109442151599,5.1033967741775665,Director,13.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,GDRX,0,0.0,0.0,70591.0,0,2.1412419425852827,1.728109442151599,See Remarks,24.0,Services,Business Services
+2024-08-08,OLPX,0,0.0,0.0,203046.0,0,0.0,2.1412419425852827,Director,101.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,TMUS,-1,5.25227342804663,-2933.03,-15437.0,0,0.0,0.0,EVP & Chief People Officer,-30.0,Transportation and Utilities,Communications
+2024-08-08,UPS,0,0.0,0.0,-1175.0,0,5.25227342804663,0.0,"CHF Crp Aff, Com & Sustain Off",-4.0,Transportation and Utilities,Motor Freight Transportation And Warehousing
+2024-08-08,GPN,0,4.654531615525816,587.523,5646.0,0,0.0,5.25227342804663,President and COO,17.0,Services,Business Services
+2024-08-08,AJG,0,4.273048472104136,1061.1,15000.0,0,4.654531615525816,0.0,President,2.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,FLEX,0,0.0,0.0,6889.0,0,4.273048472104136,4.654531615525816,Director,16.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,MATX,-1,4.868533950788666,-96.073,-744.0,0,0.0,4.273048472104136,Senior Vice President,-6.0,Transportation and Utilities,Water Transportation
+2024-08-08,NVR,-1,9.032859480235807,-1046.596,-125.0,0,4.868533950788666,0.0,Director,-40.0,Construction,Building Construction General Contractors And Operative Builders
+2024-08-08,NVR,0,8.01433243041565,377.874,125.0,0,9.032859480235807,4.868533950788666,Director,65.0,Construction,Building Construction General Contractors And Operative Builders
+2024-08-08,ETD,0,3.4423393249933305,-18.307,-605.0,0,8.01433243041565,9.032859480235807,"EVP, Retail Network & Bus Dev",-5.0,Manufacturing,Furniture And Fixtures
+2024-08-08,ETST,1,0.14842000511827322,3.284,20524.0,0,3.4423393249933305,8.01433243041565,Director,2.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-08,MKTX,-1,5.449449208551952,-142.916,-617.0,0,0.14842000511827322,3.4423393249933305,Head of EMEA and APAC,-8.0,"Finance, Insurance, And Real Estate","Security And Commodity Brokers, Dealers, Exchanges, And Services"
+2024-08-08,NWE,-1,3.968781339246755,-35.721,-688.0,0,5.449449208551952,0.14842000511827322,Director,-6.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-08,BWIN,-1,3.7605021977869035,-3928.224,-93596.0,0,3.968781339246755,5.449449208551952,See Remarks,-22.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,PAYC,-1,5.073610093257644,-619.125,-3900.0,0,3.7605021977869035,3.968781339246755,"Director, CEO, President and Chairman, 10% Owner",0.0,Services,Business Services
+2024-08-08,SCCO,-1,4.611152257665639,-9.96,-100.0,0,5.073610093257644,3.7605021977869035,Director,-4.0,"Agriculture, Forestry, And Fishing",Metal Mining
+2024-08-08,BXMT,1,2.918851229218033,175.2,10000.0,0,4.611152257665639,5.073610093257644,Director,6.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,TGI,0,0.0,0.0,10324.0,0,2.918851229218033,4.611152257665639,Director,inf,Manufacturing,Transportation Equipment
+2024-08-08,CHCT,0,3.166740070447672,919.201,40440.0,0,0.0,2.918851229218033,Executive Vice President & CAO,11.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,PETS,0,0.0,0.0,7500.0,0,3.166740070447672,0.0,Director,16.0,Retail Trade,Miscellaneous Retail 
+2024-08-08,ATGE,-1,4.2837244833835015,-4814.768,-67330.0,0,0.0,3.166740070447672,Director,-42.0,Services,Educational Services
+2024-08-08,NOW,-1,6.675823221634848,-60.192,-76.0,0,4.2837244833835015,0.0,Chief People Officer,-2.0,Services,Business Services
+2024-08-08,EHTH,1,1.6409365794934714,83.2,20000.0,0,6.675823221634848,4.2837244833835015,"SVP, Chief Financial Officer",4.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,CARR,-1,4.182813210209709,-4026.758,-62382.0,0,1.6409365794934714,6.675823221634848,"Senior VP, Strategy & Services",-38.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-08,ACHR,1,1.4701758451005926,9989.998,2982089.0,0,4.182813210209709,1.6409365794934714,10% Owner,5.0,Manufacturing,Transportation Equipment
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,1.4701758451005926,4.182813210209709,Director,147.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,3.329343277894172,1.4701758451005926,Director,317.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,BFAM,-1,4.884013309772668,-327.9,-2500.0,0,3.329343277894172,3.329343277894172,Director,-8.0,Services,Social Services
+2024-08-08,CHCT,0,3.166740070447672,988.8,43502.0,0,4.884013309772668,3.329343277894172,Chief Financial Officer,59.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,JJSF,-1,5.1392630166924285,-254.385,-1500.0,0,3.166740070447672,4.884013309772668,"VP, Human Resources",-67.0,Manufacturing,Food And Kindred Products
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,5.1392630166924285,3.166740070447672,Director,30.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,TRU,-1,4.461068842013835,-248.182,-2900.0,0,3.329343277894172,5.1392630166924285,"President, International",-9.0,Services,Business Services
+2024-08-08,TMDX,-1,5.07804469032551,-3189.2,-20000.0,0,4.461068842013835,3.329343277894172,Director,-10.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-08,PETS,0,0.0,0.0,7500.0,0,5.07804469032551,4.461068842013835,Director,44.0,Retail Trade,Miscellaneous Retail 
+2024-08-08,GDRX,0,0.0,0.0,12663.0,0,0.0,5.07804469032551,Chief Accounting Officer,9.0,Services,Business Services
+2024-08-08,EHTH,1,1.623340817603092,203.5,50000.0,0,0.0,0.0,"Director, Chief Executive Officer",6.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,GDRX,0,2.262804222982201,-308.031,-35776.0,0,1.623340817603092,0.0,See Remarks,-10.0,Services,Business Services
+2024-08-08,CHCT,0,3.166740070447672,699.538,30776.0,0,2.262804222982201,1.623340817603092,EVP - Asset Management,20.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,3.166740070447672,2.262804222982201,Director,207.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,AJG,-1,5.648833383171185,-4244.4,-15000.0,0,3.329343277894172,3.166740070447672,President,-2.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,ACA,1,4.415219602029645,990.613,12125.0,0,5.648833383171185,3.329343277894172,"Director, President & CEO",3.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-08,ORN,1,2.052840859882657,25.123,3700.0,0,4.415219602029645,5.648833383171185,"Director, PRESIDENT & CEO",1.0,Construction,Heavy Construction Other Than Building Construction Contractors
+2024-08-08,STC,-1,4.252344965204106,-876.196,-12649.0,0,2.052840859882657,4.415219602029645,Chief Financial Officer,-18.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-08,AUBN,1,2.953868069455292,1.818,100.0,0,4.252344965204106,2.052840859882657,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,2.953868069455292,4.252344965204106,Director,0.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,0.0,2.953868069455292,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,ETD,0,3.4423393249933305,-175.205,-5790.0,0,2.1412419425852827,0.0,"Director, Chairman, President & CEO, 10% Owner",0.0,Manufacturing,Furniture And Fixtures
+2024-08-08,TEAM,-1,4.940284357999733,-1103.262,-7948.0,0,3.4423393249933305,2.1412419425852827,"Director, Co-CEO, Co-Founder, 10% Owner",-3.0,Services,Business Services
+2024-08-08,ISBA,1,3.017982882488811,31.12,1600.0,0,4.940284357999733,3.4423393249933305,Chief Financial Officer,63.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,3.017982882488811,4.940284357999733,Director,112.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,0.0,3.017982882488811,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,BRO,-1,4.618283825133474,-250.8,-2500.0,0,2.1412419425852827,0.0,"EVP, CFO and Treasurer",-1.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,TMUS,0,4.428313668625195,127.083,1535.0,0,4.618283825133474,2.1412419425852827,EVP & Chief People Officer,3.0,Transportation and Utilities,Communications
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,4.428313668625195,4.618283825133474,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,2.1412419425852827,4.428313668625195,Director,25.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,BLKB,-1,4.346140356109473,-245.3,-3220.0,0,2.1412419425852827,2.1412419425852827,Director,-11.0,Services,Business Services
+2024-08-08,ETD,0,3.4423393249933305,-10.924,-361.0,0,4.346140356109473,2.1412419425852827,"SVP, CFO",-3.0,Manufacturing,Furniture And Fixtures
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,3.4423393249933305,4.346140356109473,Director,31.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,MCO,0,0.0,0.0,-442.0,0,2.1412419425852827,3.4423393249933305,"Director, President and CEO",-1.0,Services,Business Services
+2024-08-08,QCOM,-1,5.108366782589591,-746.212,-4539.0,0,0.0,2.1412419425852827,Chief Technology Officer,-1.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,5.108366782589591,0.0,Director,34.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,EHTH,1,1.6331544390514163,42.704,10365.0,0,0.0,5.108366782589591,"SVP, General Counsel & Secr.",6.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,HYLN,0,1.0885619528146082,-1.46,-741.0,0,1.6331544390514163,0.0,Chief Financial Officer,0.0,Manufacturing,Transportation Equipment
+2024-08-08,MSI,-1,6.019104032911399,-1485.731,-3621.88,0,1.0885619528146082,1.6331544390514163,EVP and CFO,-18.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,MSI,0,4.9451363118635605,457.667,3281.0,0,6.019104032911399,1.0885619528146082,EVP and CFO,20.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,INTA,-1,3.501344330267094,-321.6,-10000.0,0,4.9451363118635605,6.019104032911399,Chief Product Officer,-1.0,Services,Business Services
+2024-08-08,VTR,-1,4.092175544937261,-1177.4,-20000.0,0,3.501344330267094,4.9451363118635605,EVP and CFO,-11.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,APLE,1,2.7107133185216936,70.2,5000.0,0,4.092175544937261,3.501344330267094,"Director, Executive Chairman",0.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,INDP,0,1.0367368849500223,154.576,84932.0,0,2.7107133185216936,4.092175544937261,"Director, CEO and Director",113.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,NOW,-1,6.680327563728875,-148.773,-187.0,0,1.0367368849500223,2.7107133185216936,Chief Commercial Officer,-5.0,Services,Business Services
+2024-08-08,FMFG,1,2.833213344056216,8.0,500.0,0,6.680327563728875,1.0367368849500223,Treasurer & CFO,8.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-08,ICUI,-1,4.977492075503002,-295.425,-2050.0,0,2.833213344056216,6.680327563728875,"VP, General Counsel",-31.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-08,JJSF,0,5.115355604866659,248.34,1500.0,0,4.977492075503002,2.833213344056216,"VP, Human Resources",202.0,Manufacturing,Food And Kindred Products
+2024-08-08,DRVN,0,2.645465325910589,-5.079,-388.0,0,5.115355604866659,4.977492075503002,SVP & Interim CFO,-4.0,Services,"Automotive Repair, Services, And Parking"
+2024-08-08,PETS,0,0.0,0.0,7500.0,0,2.645465325910589,5.115355604866659,Director,546.0,Retail Trade,Miscellaneous Retail 
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,0.0,2.645465325910589,Director,3.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,AMBC,1,2.454447442303292,11.704,1100.0,0,3.329343277894172,0.0,Exec VP & Chief Strategy Offr,1.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-08,CHCT,0,3.166740070447672,1333.342,58660.0,0,2.454447442303292,3.329343277894172,"Director, CEO and President",16.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,ETR,-1,4.754968551076486,-1321.116,-11472.0,0,3.166740070447672,2.454447442303292,EVP & Chief Operating Officer,-23.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,4.754968551076486,3.166740070447672,Director,35.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,3.329343277894172,4.754968551076486,Director,41.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,OII,-1,3.2846635654062037,-257.0,-10000.0,0,3.329343277894172,3.329343277894172,"SVP, Chief Commercial Ofc.",-15.0,Mining,Oil And Gas Extraction
+2024-08-08,ALGM,0,3.329343277894172,185.021,6873.0,0,3.2846635654062037,3.329343277894172,Director,31.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,NWFL,1,3.283539338193923,14.247,555.0,0,3.329343277894172,3.2846635654062037,EVP & CFO,41.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-08,APVO,0,0.0,0.0,213.0,0,3.283539338193923,3.329343277894172,"SVP, GC, BD & Corp Affairs",36.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,SEZL,-1,4.64333264708244,-169.254,-1645.0,0,0.0,3.283539338193923,"Director, Executive Director & President",-1.0,Services,Business Services
+2024-08-08,AGCO,1,4.491777498633001,124.916,1415.0,0,4.64333264708244,0.0,Director,20.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-08,GPN,-1,4.622322244805657,-166.305,-1651.0,0,4.491777498633001,4.64333264708244,"EVP, Chief Accounting Officer",-7.0,Services,Business Services
+2024-08-08,PETS,0,0.0,0.0,7500.0,0,4.622322244805657,4.491777498633001,Director,795.0,Retail Trade,Miscellaneous Retail 
+2024-08-08,PCSZX,1,2.4300984132930052,479.28,46262.547,0,0.0,4.622322244805657,See Remarks,inf,-1,-1
+2024-08-08,RDN,-1,3.561897992353146,-130.656,-3817.0,0,2.4300984132930052,0.0,Sr. EVP - CFO,-100.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-08,NTRA,0,1.8562979903656263,1026.0,190000.0,0,3.561897992353146,2.4300984132930052,"Director, EXECUTIVE CHAIRMAN",8.0,Services,Health Services
+2024-08-08,FLEX,0,0.0,0.0,10333.0,0,1.8562979903656263,3.561897992353146,Director,9.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,FLEX,0,0.0,0.0,6889.0,0,0.0,1.8562979903656263,Director,3.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,PETS,0,0.0,0.0,7500.0,0,0.0,0.0,Director,6.0,Retail Trade,Miscellaneous Retail 
+2024-08-08,GRPN,1,2.4518667957098,159.15,15000.0,0,0.0,0.0,Director,37.0,Services,Business Services
+2024-08-08,CVRX,1,2.2235418856535927,24.72,3000.0,0,2.4518667957098,0.0,Director,12.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-08,FLEX,0,0.0,0.0,6889.0,0,2.2235418856535927,2.4518667957098,Director,11.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,0.0,2.2235418856535927,Director,23.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,WEN,-1,2.900322088749333,-17180.0,-1000000.0,0,0.0,0.0,"Director, 10% Owner",-6.0,Retail Trade,Eating And Drinking Places
+2024-08-08,FLEX,0,0.0,0.0,6889.0,0,2.900322088749333,0.0,Director,23.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,0.0,2.900322088749333,Director,6.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,TRGP,0,0.0,0.0,-5000.0,0,2.1412419425852827,0.0,Director,-1.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-08,CHE,-1,6.365576577558124,-589.768,-1016.0,0,0.0,2.1412419425852827,executive vice president,-5.0,Services,Health Services
+2024-08-08,NINE,-1,0.887891257352457,-30.561,-21371.0,0,6.365576577558124,0.0,See Remarks,-7.0,Mining,Oil And Gas Extraction
+2024-08-08,DKNG,-1,3.456947396766647,-6144.0,-200000.0,0,0.887891257352457,6.365576577558124,"Director, See Remarks",-7.0,Services,Amusement And Recreation Services
+2024-08-08,MNRO,0,3.3098128198603027,34.531,1309.0,0,3.456947396766647,0.887891257352457,"Director, CEO & President",1.0,Services,"Automotive Repair, Services, And Parking"
+2024-08-08,DKNG,0,0.0,0.0,-41472.0,0,3.3098128198603027,3.456947396766647,"Director, See Remarks",-2.0,Services,Amusement And Recreation Services
+2024-08-08,WEN,-1,2.900322088749333,-17180.0,-1000000.0,0,0.0,3.3098128198603027,"Director, 10% Owner",-4.0,Retail Trade,Eating And Drinking Places
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,2.900322088749333,0.0,Director,0.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,0.0,2.900322088749333,Director,122.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,0.0,0.0,Director,0.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,APEI,0,2.65745841498615,-17.397,-1312.0,0,0.0,0.0,"EVP, Chief Information Officer",-3.0,Services,Educational Services
+2024-08-08,SEZL,-1,4.624482497020464,-3029.509,-30010.0,0,2.65745841498615,0.0,Former Director,-9.0,Services,Business Services
+2024-08-08,KO,0,3.795938526407344,1539.825,35382.0,0,4.624482497020464,2.65745841498615,Executive Vice President,19.0,Manufacturing,Food And Kindred Products
+2024-08-08,OLPX,0,0.0,0.0,76142.0,0,3.795938526407344,4.624482497020464,Director,0.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,WEN,-1,2.900322088749333,-17180.0,-1000000.0,0,0.0,3.795938526407344,"Director, 10% Owner",-5.0,Retail Trade,Eating And Drinking Places
+2024-08-08,NKSH,1,3.332204510175204,27.0,1000.0,0,2.900322088749333,0.0,Director,5.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-08,TDS,0,0.0,0.0,0.0,0,3.332204510175204,2.900322088749333,"Director, President and CEO",0.0,Transportation and Utilities,Communications
+2024-08-08,RCG,1,1.0116009116784799,2.051,1172.0,0,0.0,3.332204510175204,"Director, President and CEO",0.0,-1,-1
+2024-08-08,BWIN,0,0.0,0.0,0.0,0,1.0116009116784799,0.0,See Remarks,0.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,TPL,1,6.695353824199829,2.423,3.0,0,0.0,1.0116009116784799,10% Owner,0.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,NFLX,-1,6.441249525031542,-271.14,-433.0,0,6.695353824199829,0.0,Chief Financial Officer,-100.0,Services,Motion Pictures
+2024-08-08,BWIN,-1,3.775744987135518,-161.269,-3783.0,0,6.441249525031542,6.695353824199829,General Counsel,-30.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-08,RGP,0,0.0,0.0,14662.0,0,3.775744987135518,6.441249525031542,CFO,16.0,Services,Business Services
+2024-08-08,DKNG,0,1.208960345836975,559.81,238217.0,0,0.0,3.775744987135518,"Director, See Remarks",10.0,Services,Amusement And Recreation Services
+2024-08-08,KO,-1,4.243051882383293,-2427.913,-35382.0,0,1.208960345836975,0.0,Executive Vice President,-16.0,Manufacturing,Food And Kindred Products
+2024-08-08,MUSA,-1,6.244904492653542,-6920.469,-13454.0,0,4.243051882383293,1.208960345836975,Director,-3.0,Retail Trade,Automotive Dealers And Gasoline Service Stations
+2024-08-08,RGP,0,0.0,0.0,10752.0,0,6.244904492653542,4.243051882383293,COO,16.0,Services,Business Services
+2024-08-08,RPID,1,0.6471032420585385,45.5,50000.0,0,0.0,6.244904492653542,Director,350.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-08,TILE,-1,2.8587664184808337,-287.7,-17500.0,0,0.6471032420585385,0.0,Vice President,-10.0,Manufacturing,Textile Mill Products
+2024-08-08,BR,-1,5.37989735354046,-145.368,-673.0,0,2.8587664184808337,0.6471032420585385,"CVP, Deputy GC and CCO",-11.0,Services,Business Services
+2024-08-08,PMT,1,2.659559991941776,12.626,950.0,0,5.37989735354046,2.8587664184808337,Director,3.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,RGP,0,0.0,0.0,32502.0,0,2.659559991941776,5.37989735354046,"Director, President & CEO",7.0,Services,Business Services
+2024-08-08,CMRX,-1,0.6043159668533296,-1.067,-1285.0,0,0.0,2.659559991941776,"Director, PRESIDENT AND CEO",0.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,RSI,-1,2.354228326145884,-194.765,-20437.0,0,0.6043159668533296,0.0,"Director, Chief Legal Officer",-10.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,DOCS,0,0.0,0.0,50942.0,0,2.354228326145884,0.6043159668533296,Chief Financial Officer,18.0,Services,Business Services
+2024-08-08,CROX,-1,4.89320219720416,-1402.434,-10594.0,0,0.0,2.354228326145884,Director,-12.0,Manufacturing,Rubber And Miscellaneous Plastics Products
+2024-08-08,RSI,0,0.0,0.0,150000.0,0,4.89320219720416,0.0,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,ENVX,0,2.558776498354456,-51.065,-4284.0,0,0.0,4.89320219720416,"Director, President and CEO",0.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,ENVX,0,2.558776498354456,-11.121,-933.0,0,2.558776498354456,0.0,Chief Legal Officer,0.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,LIND,0,2.1412419425852827,109.999,14647.0,0,2.558776498354456,2.558776498354456,Director,19.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,RSI,0,0.0,0.0,-150000.0,0,2.1412419425852827,2.558776498354456,Director,-27.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,Z AND ZG,0,0.0,0.0,61993.0,0,0.0,2.1412419425852827,"Director, Chief Executive Officer",53.0,Services,Business Services
+2024-08-08,RSI,0,1.4539530095937052,67.033,20437.0,0,0.0,0.0,"Director, Chief Legal Officer",12.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-08,LGND,1,4.588939172877674,243.475,2500.0,0,1.4539530095937052,0.0,"Director, Chief Executive Officer",2.0,Manufacturing,Chemicals And Allied Products
+2024-08-08,CARR,0,3.110399348532117,1999.848,93320.0,0,4.588939172877674,1.4539530095937052,"Senior VP, Strategy & Services",91.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-08,ENVX,0,2.558776498354456,-18.738,-1572.0,0,3.110399348532117,4.588939172877674,Chief Financial Officer,0.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-08,AFL,-1,4.610655116218661,-59.73,-600.0,0,2.558776498354456,3.110399348532117,Director,-2.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-08,TENX,1,0.0,0.0,2500.0,0,4.610655116218661,2.558776498354456,Director,656.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-08,AXR,1,3.1978564576441255,117.4,5000.0,0,0.0,4.610655116218661,10% Owner,1.0,Manufacturing,"Printing, Publishing, And Allied Industries"
+2024-08-08,PMTS,1,3.26804686887465,50.52,2000.0,0,3.1978564576441255,0.0,Director,24.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-08,ETR,0,4.3217457037889515,852.599,11472.0,0,3.26804686887465,3.1978564576441255,EVP & Chief Operating Officer,30.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-08,CARR,0,4.18418526622189,-1999.832,-30938.0,0,4.3217457037889515,3.26804686887465,"Senior VP, Strategy & Services",-16.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,RIOT,-1,2.262804222982201,-239.883,-27861.0,0,4.18418526622189,4.3217457037889515,Director,-26.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,ALNT,0,3.213260086082565,21.593,905.0,0,2.262804222982201,4.18418526622189,Director,3.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,BGSF,0,0.0,0.0,2145.0,0,3.213260086082565,2.262804222982201,Director,2.0,Services,Business Services
+2024-08-07,ALNT,0,3.213260086082565,21.593,905.0,0,0.0,3.213260086082565,Director,1.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,BGSF,0,2.0918640616783932,53.25,7500.0,0,3.213260086082565,0.0,Director,6.0,Services,Business Services
+2024-08-07,BGSF,0,0.0,0.0,2145.0,0,2.0918640616783932,3.213260086082565,Director,22.0,Services,Business Services
+2024-08-07,BGSF,0,0.0,0.0,2145.0,0,0.0,2.0918640616783932,Director,1.0,Services,Business Services
+2024-08-07,SNOW,-1,4.795790545596741,-1800.0,-15000.0,0,0.0,0.0,"EVP, Product Management",-2.0,Services,Business Services
+2024-08-07,TTEK,-1,5.455620215921813,-1165.35,-5000.0,0,4.795790545596741,0.0,"SVP, General Counsel",-36.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-07,ALNT,0,3.213260086082565,21.593,905.0,0,5.455620215921813,4.795790545596741,Director,12.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,BGSF,0,0.0,0.0,2145.0,0,3.213260086082565,5.455620215921813,Director,7.0,Services,Business Services
+2024-08-07,BGSF,0,2.0918640616783932,53.25,7500.0,0,0.0,3.213260086082565,Director,4.0,Services,Business Services
+2024-08-07,BGSF,0,2.0918640616783932,53.25,7500.0,0,2.0918640616783932,0.0,Director,6.0,Services,Business Services
+2024-08-07,BGSF,0,0.0,0.0,2145.0,0,2.0918640616783932,2.0918640616783932,Director,3.0,Services,Business Services
+2024-08-07,YUM,0,4.927253685157205,-2940.705,-21465.0,0,0.0,2.0918640616783932,Chief Executive Officer - KFC,-83.0,Retail Trade,Eating And Drinking Places
+2024-08-07,EXLS,-1,3.566994266123812,-722.61,-21000.0,0,4.927253685157205,0.0,EVP & Gen Counsel/Corp. Sec'y.,-41.0,Services,Business Services
+2024-08-07,BGSF,0,0.0,0.0,2145.0,0,3.566994266123812,4.927253685157205,Director,2.0,Services,Business Services
+2024-08-07,FDP,-1,3.339321977944068,-45.941,-1689.0,0,0.0,3.566994266123812,Director,-7.0,"Agriculture, Forestry, And Fishing",Agricultural Production Crops
+2024-08-07,MMM,-1,4.824064723012886,-700.692,-5675.0,0,3.339321977944068,0.0,"Director, Chairman of the Board",-3.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,GOOGL,-1,5.1043684735131025,-3684.15,-22500.0,0,4.824064723012886,3.339321977944068,"Director, Chief Executive Officer",-1.0,Services,Business Services
+2024-08-07,GPK,-1,3.367985247456042,-8406.0,-300000.0,0,5.1043684735131025,4.824064723012886,"Director, President and CEO",-14.0,Manufacturing,Paper And Allied Products
+2024-08-07,ALNT,0,3.213260086082565,21.593,905.0,0,3.367985247456042,5.1043684735131025,Director,10.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,AAPL,0,0.0,0.0,-4500.0,0,3.213260086082565,3.367985247456042,"SVP, GC and Secretary",-2.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,ETD,0,0.0,0.0,3411.0,0,0.0,3.213260086082565,"SVP, CFO",49.0,Manufacturing,Furniture And Fixtures
+2024-08-07,ETD,0,0.0,0.0,2912.0,0,0.0,0.0,"SVP, Merchandising",344.0,Manufacturing,Furniture And Fixtures
+2024-08-07,RXRX,-1,2.0541237336955462,-340.0,-50000.0,0,0.0,0.0,"Director, Chief Executive Officer",-6.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,ETD,0,0.0,0.0,4160.0,0,2.0541237336955462,0.0,"EVP, Retail Network & Bus Dev",50.0,Manufacturing,Furniture And Fixtures
+2024-08-07,TNDM,0,3.686125665917315,-258.191,-6639.0,0,0.0,2.0541237336955462,Director,-15.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,ETD,0,0.0,0.0,12916.0,0,3.686125665917315,0.0,"Director, Chairman, President & CEO, 10% Owner",1.0,Manufacturing,Furniture And Fixtures
+2024-08-07,VCYT,-1,3.4442568711226023,-154.875,-5108.0,0,0.0,3.686125665917315,Director,-6.0,Services,Health Services
+2024-08-07,PFBX,1,2.8814431271518632,85.884,5100.0,0,3.4442568711226023,0.0,10% Owner,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,SPT,0,0.0,0.0,0.0,0,2.8814431271518632,3.4442568711226023,"Director, Chairman and CEO, 10% Owner",0.0,Services,Business Services
+2024-08-07,UTHR,-1,5.8009091853869235,-2373.12,-7200.0,0,0.0,2.8814431271518632,"Director, Chairperson & CEO",-1.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,EHTH,0,0.0,0.0,18181.0,0,5.8009091853869235,0.0,Director,23.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-07,VCYT,0,2.4344901638739844,12.638,1214.0,0,0.0,5.8009091853869235,Director,1.0,Services,Health Services
+2024-08-07,FICO,-1,7.437182809467789,-5090.88,-3000.0,0,2.4344901638739844,0.0,Director,-19.0,Services,Business Services
+2024-08-07,CVNA,-1,4.904607889450726,-20086.5,-150000.0,0,7.437182809467789,2.4344901638739844,10% Owner,0.0,Retail Trade,Automotive Dealers And Gasoline Service Stations
+2024-08-07,TDOC,-1,2.151762203259462,-114.0,-15000.0,0,4.904607889450726,7.437182809467789,CHIEF MARKETING OFFICER,-25.0,Services,Health Services
+2024-08-07,ZI,1,2.2502386126218363,12735.0,1500000.0,0,2.151762203259462,4.904607889450726,"Director, Chief Executive Officer",9.0,Services,Business Services
+2024-08-07,IMMR,0,2.418588768750352,-233.264,-22802.0,0,2.2502386126218363,2.151762203259462,"Director, Chief Strategy Officer",-2.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,WLDN,-1,3.632309102625542,-368.0,-10000.0,0,2.418588768750352,2.2502386126218363,EXECUTIVE VP AND CFO,-13.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-07,LDOS,0,4.971825163309164,-38.545,-269.0,0,3.632309102625542,2.418588768750352,Sector President,-1.0,Services,Business Services
+2024-08-07,MPLN,1,0.3148107398400336,185.0,500000.0,0,4.971825163309164,3.632309102625542,"Director, Pres., Chief Executive Officer",11.0,Services,Business Services
+2024-08-07,FBRT,0,0.0,0.0,2025.0,0,0.3148107398400336,4.971825163309164,Director,5.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,ALNT,0,3.213260086082565,21.593,905.0,0,0.0,0.3148107398400336,Director,3.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,WLDN,0,2.3105532626432224,90.8,10000.0,0,3.213260086082565,0.0,EXECUTIVE VP AND CFO,15.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-07,RPID,1,0.5766133643039938,7.8,10000.0,0,2.3105532626432224,3.213260086082565,CHIEF FINANCIAL OFFICER,3.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,CUBE,0,3.258096538021482,925.0,37000.0,0,0.5766133643039938,2.3105532626432224,"Director, CEO",5.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,PZZA,0,3.772531026609547,-99.257,-2336.0,0,3.258096538021482,0.5766133643039938,"Interim CEO, and CFO",-6.0,Retail Trade,Eating And Drinking Places
+2024-08-07,FBRT,0,0.0,0.0,2025.0,0,3.772531026609547,3.258096538021482,Director,6.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,HFFG,0,0.0,0.0,9709.0,0,0.0,3.772531026609547,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,BL,-1,3.9318256327243257,-500.0,-10000.0,0,0.0,0.0,CHIEF LEGAL AND ADMINISTRATIVE,-8.0,Services,Business Services
+2024-08-07,NOW,0,6.655800645813808,-171.558,-221.0,0,3.9318256327243257,0.0,Chief Financial Officer,-2.0,Services,Business Services
+2024-08-07,PEBK,-1,3.398192872641857,-251.112,-8686.0,0,6.655800645813808,3.9318256327243257,Director,-89.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,SEG,0,0.0,0.0,7303.0,0,3.398192872641857,6.655800645813808,Chief Accounting Officer,inf,-1,-1
+2024-08-07,FBRT,0,0.0,0.0,2025.0,0,0.0,3.398192872641857,Director,5.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,CBT,-1,4.616406817914079,-2330.426,-23274.0,0,0.0,0.0,"Executive Vice President, CFO",-28.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,NOW,0,6.655800645813808,-75.299,-97.0,0,4.616406817914079,0.0,Chief Strat & Corp Affairs Ofc,-3.0,Services,Business Services
+2024-08-07,NOW,0,0.0,0.0,346.0,0,6.655800645813808,4.616406817914079,Chief Commercial Officer,10.0,Services,Business Services
+2024-08-07,HFFG,0,0.0,0.0,9709.0,0,0.0,6.655800645813808,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,FBRT,0,0.0,0.0,2025.0,0,0.0,0.0,Director,6.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,NOW,0,0.0,0.0,200.0,0,0.0,0.0,Chief Strat & Corp Affairs Ofc,6.0,Services,Business Services
+2024-08-07,HSTM,-1,3.3683297780365384,-84.09,-3000.0,0,0.0,0.0,Senior Vice President,-24.0,Services,Business Services
+2024-08-07,NOW,0,6.655800645813808,-62.102,-80.0,0,3.3683297780365384,0.0,Chief People Officer,-3.0,Services,Business Services
+2024-08-07,KW,0,0.0,0.0,7000.0,0,6.655800645813808,3.3683297780365384,Director,inf,"Finance, Insurance, And Real Estate",Real Estate
+2024-08-07,NOW,0,6.655800645813808,-98.588,-127.0,0,0.0,6.655800645813808,General Counsel,-2.0,Services,Business Services
+2024-08-07,SEG,0,0.0,0.0,8062.0,0,6.655800645813808,0.0,General Counsel,inf,-1,-1
+2024-08-07,NOW,0,0.0,0.0,988.0,0,0.0,6.655800645813808,"Director, Chairman & CEO",5.0,Services,Business Services
+2024-08-07,NOW,0,0.0,0.0,234.0,0,0.0,0.0,General Counsel,4.0,Services,Business Services
+2024-08-07,NOW,0,0.0,0.0,533.0,0,0.0,0.0,Principal Accounting Officer,20.0,Services,Business Services
+2024-08-07,TRGP,0,0.0,0.0,-14336.0,0,0.0,0.0,"Director, Chief Executive Officer",-2.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-07,CBOE,-1,5.319099905730565,-121.92,-600.0,0,0.0,0.0,"EVP, GLOBAL DERIVATIVES",-12.0,"Finance, Insurance, And Real Estate","Security And Commodity Brokers, Dealers, Exchanges, And Services"
+2024-08-07,FBRT,0,0.0,0.0,2025.0,0,5.319099905730565,0.0,Director,8.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,TEAM,-1,4.9614450499054845,-1127.026,-7948.0,0,0.0,5.319099905730565,"Director, Co-CEO, Co-Founder, 10% Owner",-3.0,Services,Business Services
+2024-08-07,BECN,1,4.42232849394725,411.45,5000.0,0,4.9614450499054845,0.0,EVP & CFO,inf,Wholesale Trade,Wholesale Trade-durable Goods
+2024-08-07,HFFG,0,0.0,0.0,9709.0,0,4.42232849394725,4.9614450499054845,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,FBRT,0,0.0,0.0,2025.0,0,0.0,4.42232849394725,Director,14.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,NOW,0,6.655800645813808,-197.175,-254.0,0,0.0,0.0,Principal Accounting Officer,-8.0,Services,Business Services
+2024-08-07,TSLX,1,3.065724645374026,10.225,500.0,0,6.655800645813808,0.0,See Remarks,12.0,-1,-1
+2024-08-07,SERA,-1,2.130609828254235,-91.466,-12327.0,0,3.065724645374026,6.655800645813808,"Director, Chief Executive Officer",-1.0,Services,Health Services
+2024-08-07,UTHR,0,4.871296595474155,932.328,7200.0,0,2.130609828254235,3.065724645374026,"Director, Chairperson & CEO",1.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,HGTY,-1,2.4595888418037104,-204.188,-19083.0,0,4.871296595474155,2.130609828254235,Director,0.0,"Finance, Insurance, And Real Estate","Insurance Agents, Brokers, And Service"
+2024-08-07,META,-1,6.2331354030360755,-3321.559,-6534.0,0,2.4595888418037104,4.871296595474155,"Director, COB and CEO, 10% Owner",-5.0,Services,Business Services
+2024-08-07,SERA,-1,2.130609828254235,-32.151,-4333.0,0,6.2331354030360755,2.4595888418037104,Chief Data Officer,-2.0,Services,Health Services
+2024-08-07,TRGP,-1,4.912728412444662,-1870.429,-13854.0,0,2.130609828254235,6.2331354030360755,Senior VP and CAO,-27.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-07,DGICA,1,2.7140322727797574,119.666,8493.0,0,4.912728412444662,2.130609828254235,10% Owner,0.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,UPST,-1,3.58351893845611,-87.5,-2500.0,0,2.7140322727797574,4.912728412444662,Corporate Controller,-9.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-07,NVT,-1,4.115127101404629,-496.663,-8242.0,0,3.58351893845611,2.7140322727797574,EVP & Chief HR Officer,-12.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,UPST,-1,3.583796677660784,-420.12,-12000.0,0,4.115127101404629,3.58351893845611,Chief Legal Officer,-6.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-07,UPST,0,2.6546494243750947,99.15,7500.0,0,3.583796677660784,4.115127101404629,Chief Legal Officer,4.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-07,UPST,0,0.3576744442718159,1.075,2500.0,0,2.6546494243750947,3.583796677660784,Corporate Controller,10.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-07,SEG,0,0.0,0.0,126455.0,0,0.3576744442718159,2.6546494243750947,"Director, Chief Executive Officer",inf,-1,-1
+2024-08-07,TRGP,-1,4.92304192960293,-193.171,-1416.0,0,0.0,0.3576744442718159,Director,0.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-07,SENEA,0,0.0,0.0,430.0,0,4.92304192960293,0.0,Senior VP Sales,10.0,Manufacturing,Food And Kindred Products
+2024-08-07,SPT,-1,3.4701013603093664,-108.99,-3500.0,0,0.0,4.92304192960293,Director,-7.0,Services,Business Services
+2024-08-07,IT,-1,6.172243247644422,-2391.3,-5000.0,0,3.4701013603093664,0.0,Director,-1.0,Services,"Engineering, Accounting, Research, Management, And Related Services"
+2024-08-07,SENEA,0,0.0,0.0,430.0,0,6.172243247644422,3.4701013603093664,Senior VP Operations,12.0,Manufacturing,Food And Kindred Products
+2024-08-07,WNEB,0,2.1482677326096886,2.861,378.0,0,0.0,6.172243247644422,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,GOOGL,0,0.0,0.0,198136.0,0,2.1482677326096886,0.0,"SVP, Chief Financial Officer",-120.0,Services,Business Services
+2024-08-07,EXFY,-1,1.0116009116784799,-79.145,-45226.0,0,0.0,2.1482677326096886,"Director, Chief Executive Officer",-1.0,Services,Business Services
+2024-08-07,VCSA,0,1.8180767775454285,1651.2,320000.0,0,1.0116009116784799,0.0,Director,-124.0,Services,Business Services
+2024-08-07,AMBC,1,2.4849066497880004,55.0,5000.0,0,1.8180767775454285,1.0116009116784799,Sr. MD & General Counsel,4.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,WNEB,0,2.1482677326096886,2.218,293.0,0,2.4849066497880004,1.8180767775454285,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,ALNT,0,3.213260086082565,87.137,3652.0,0,2.1482677326096886,2.4849066497880004,Chief Financial Officer,inf,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,SERA,-1,2.130609828254235,-37.263,-5022.0,0,3.213260086082565,2.1482677326096886,Chief Scientific Officer,-4.0,Services,Health Services
+2024-08-07,AMBC,1,2.4898941912990393,987.791,89312.0,0,2.130609828254235,3.213260086082565,Director,inf,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,DFH,-1,3.3690184832979204,-22.384,-798.0,0,2.4898941912990393,2.130609828254235,"Director, 10% Owner",0.0,Construction,Building Construction General Contractors And Operative Builders
+2024-08-07,FI,0,0.0,0.0,-1435.0,0,3.3690184832979204,2.4898941912990393,"Director, Chairman, President and CEO",0.0,Services,Business Services
+2024-08-07,SENEA,0,0.0,0.0,430.0,0,0.0,3.3690184832979204,"VP, Controller/Asst.Secretary",71.0,Manufacturing,Food And Kindred Products
+2024-08-07,TMDX,0,4.552612935249416,402.651,4289.0,0,0.0,0.0,See remarks,48.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,MORN,-1,5.723389004295119,-3362.573,-11027.0,0,4.552612935249416,0.0,"Director, Executive Chairman, 10% Owner",0.0,"Finance, Insurance, And Real Estate","Security And Commodity Brokers, Dealers, Exchanges, And Services"
+2024-08-07,WNEB,0,2.1482677326096886,8.902,1176.0,0,5.723389004295119,4.552612935249416,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,UTHR,0,4.759006530702958,2890.75,25000.0,0,2.1482677326096886,5.723389004295119,PRESIDENT AND COO,-1032.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,ORLY,-1,7.012799744701443,-53.268,-48.0,0,4.759006530702958,2.1482677326096886,Director,-4.0,Retail Trade,Automotive Dealers And Gasoline Service Stations
+2024-08-07,UTHR,-1,5.7898378392560215,-8149.0,-25000.0,0,7.012799744701443,4.759006530702958,PRESIDENT AND COO,-91.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,YOU,-1,3.2771447329921766,-12.75,-500.0,0,5.7898378392560215,7.012799744701443,Chief Accounting Officer,-5.0,Services,Business Services
+2024-08-07,BFLY,1,0.6678293725756554,98.8,104000.0,0,3.2771447329921766,5.7898378392560215,"Director, President & CEO",2.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,QDEL,-1,3.730501128804756,-7524.82,-184885.0,0,0.6678293725756554,3.2771447329921766,10% Owner,-2.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,VCSA,0,1.8180767775454285,1651.2,320000.0,0,3.730501128804756,0.6678293725756554,Director,-124.0,Services,Business Services
+2024-08-07,REGN,0,5.922810903790934,181.388,487.0,0,1.8180767775454285,3.730501128804756,VP Controller,12.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,REGN,-1,6.976348070447749,-521.09,-487.0,0,5.922810903790934,1.8180767775454285,VP Controller,-10.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,CRBG,-1,3.254242968705492,-200000.02,-8032129.0,0,6.976348070447749,5.922810903790934,10% Owner,-3.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,WCN,-1,5.199325417341086,-180.15,-1000.0,0,3.254242968705492,6.976348070447749,SR VP Operations,-19.0,Transportation and Utilities,"Electric, Gas, And Sanitary Services "
+2024-08-07,BSY,0,0.0,0.0,-10493.0,0,5.199325417341086,3.254242968705492,"Director, Executive Chair & President, 10% Owner",0.0,Services,Business Services
+2024-08-07,WNEB,0,2.1482677326096886,6.45,852.0,0,0.0,5.199325417341086,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,WNEB,0,2.1482677326096886,4.837,639.0,0,2.1482677326096886,0.0,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,GPS,0,3.1095072878128356,-2606.689,-121751.0,0,2.1482677326096886,2.1482677326096886,"President & CEO, Athleta",-51.0,Retail Trade,Apparel And Accessory Stores
+2024-08-07,GPS,0,0.0,0.0,240236.0,0,3.1095072878128356,2.1482677326096886,"President & CEO, Athleta",-215.0,Retail Trade,Apparel And Accessory Stores
+2024-08-07,WNEB,0,2.1482677326096886,4.557,602.0,0,0.0,3.1095072878128356,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,PLNT,-1,4.361696368200631,-497.153,-6424.0,0,2.1482677326096886,0.0,"SVP, Chief Accounting Officer",-49.0,Services,Amusement And Recreation Services
+2024-08-07,OCC,0,0.0,0.0,71595.0,0,4.361696368200631,2.1482677326096886,"Director, Chairman, President and CEO, 10% Owner",7.0,Manufacturing,Primary Metal Industries
+2024-08-07,SENEA,0,0.0,0.0,430.0,0,0.0,4.361696368200631,"SVP, CFO & Treasurer",1.0,Manufacturing,Food And Kindred Products
+2024-08-07,WNEB,0,2.1482677326096886,3.793,501.0,0,0.0,0.0,Director,1.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,BXSY,1,2.612273245708441,79.822,6320.0,0,2.1482677326096886,0.0,"See ""Explanation of Responses""",5.0,-1,-1
+2024-08-07,WK,0,0.0,0.0,-3500.0,0,2.612273245708441,2.1482677326096886,"EVP, CFO & Treasurer",-3.0,Services,Business Services
+2024-08-07,AMBC,1,2.4595888418037104,39.59,3700.0,0,0.0,2.612273245708441,"Exec VP, CFO & Treasurer",2.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,AMBC,1,2.457877977400081,267.0,25000.0,0,2.4595888418037104,0.0,"Director, Chief Executive Officer",5.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,SPGI,-1,6.17852485824911,-3687.567,-7662.0,0,2.457877977400081,2.4595888418037104,Director,-33.0,Manufacturing,"Printing, Publishing, And Allied Industries"
+2024-08-07,SERA,-1,2.130609828254235,-37.263,-5022.0,0,6.17852485824911,2.457877977400081,Chief Information Officer,-4.0,Services,Health Services
+2024-08-07,STX,-1,4.562262684976814,-2442.048,-25760.0,0,2.130609828254235,6.17852485824911,EVP & CFO,-33.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,STX,0,3.8550292839080256,223.615,4837.0,0,4.562262684976814,2.130609828254235,EVP & CFO,7.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,ONEW,1,3.1432898379116057,1257.717,56705.0,0,3.8550292839080256,4.562262684976814,Director,273.0,Retail Trade,Automotive Dealers And Gasoline Service Stations
+2024-08-07,EFX,-1,5.647705828435796,-847.92,-3000.0,0,3.1432898379116057,3.8550292839080256,"EVP, Chief HR Officer",-22.0,Services,Business Services
+2024-08-07,OCC,0,0.0,0.0,36630.0,0,5.647705828435796,3.1432898379116057,SVP and CFO,12.0,Manufacturing,Primary Metal Industries
+2024-08-07,ADP,0,0.0,0.0,7242.804,0,0.0,5.647705828435796,Corp VP,36.0,Services,Business Services
+2024-08-07,ADP,0,0.0,0.0,2004.96,0,0.0,0.0,Corp VP,24.0,Services,Business Services
+2024-08-07,BSET,1,2.6282852326333477,6.425,500.0,0,0.0,0.0,"SVP, Chief Fin./Admin. Officer",1.0,Manufacturing,Furniture And Fixtures
+2024-08-07,APPS,0,1.0224509277025458,-7.156,-4020.0,0,2.6282852326333477,0.0,Chief Technology Officer,-3.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,ONEW,1,3.1276373444339294,109.1,5000.0,0,1.0224509277025458,2.6282852326333477,"Director, CEO - See Remarks, See Remarks",0.0,Retail Trade,Automotive Dealers And Gasoline Service Stations
+2024-08-07,SERA,-1,2.130609828254235,-37.263,-5022.0,0,3.1276373444339294,1.0224509277025458,General Counsel,-3.0,Services,Health Services
+2024-08-07,SERA,-1,2.130609828254235,-50.159,-6760.0,0,2.130609828254235,3.1276373444339294,Chief Financial Officer,-2.0,Services,Health Services
+2024-08-07,SERA,-1,2.130609828254235,-0.749,-101.0,0,2.130609828254235,2.130609828254235,Director,-1.0,Services,Health Services
+2024-08-07,SEG,0,0.0,0.0,34143.0,0,2.130609828254235,2.130609828254235,Chief Financial Officer,inf,-1,-1
+2024-08-07,ADP,0,0.0,0.0,55406.08,0,0.0,2.130609828254235,Director,102.0,Services,Business Services
+2024-08-07,ADP,0,0.0,0.0,23628.871,0,0.0,0.0,President & CEO,44.0,Services,Business Services
+2024-08-07,CET,0,0.0,0.0,-37500.0,0,0.0,0.0,10% Owner,0.0,-1,-1
+2024-08-07,AN,0,0.0,0.0,3195.0,0,0.0,0.0,EVP & CFO,225.0,Retail Trade,Automotive Dealers And Gasoline Service Stations
+2024-08-07,ADP,0,0.0,0.0,19658.035,0,0.0,0.0,Corp. VP,102.0,Services,Business Services
+2024-08-07,GLYC,-1,0.17395330712343798,-61.249,-322361.0,0,0.0,0.0,10% Owner,-5.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,ADP,0,0.0,0.0,13372.688,0,0.17395330712343798,0.0,Corporate Vice President,18.0,Services,Business Services
+2024-08-07,EQR,-1,4.2801323269925415,-213.75,-3000.0,0,0.0,0.17395330712343798,Executive Vice President & COO,-9.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,AN,0,5.107882989643532,-206.715,-1258.0,0,4.2801323269925415,0.0,EVP & CFO,-27.0,Retail Trade,Automotive Dealers And Gasoline Service Stations
+2024-08-07,TEAM,-1,4.9486889658772695,-1112.641,-7948.0,0,5.107882989643532,4.2801323269925415,"Director, Co-CEO, Co-Founder, 10% Owner",-3.0,Services,Business Services
+2024-08-07,NOW,0,6.655800645813808,-412.981,-532.0,0,4.9486889658772695,5.107882989643532,"Director, Chairman & CEO",-3.0,Services,Business Services
+2024-08-07,MASS,0,0.9477893989335261,9.998,6328.0,0,6.655800645813808,4.9486889658772695,Chief Product Officer,1.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,ADP,0,0.0,0.0,994.553,0,0.9477893989335261,6.655800645813808,Corp. VP,33.0,Services,Business Services
+2024-08-07,BZH,0,0.0,0.0,866.0,0,0.0,0.9477893989335261,Director,inf,Construction,Building Construction General Contractors And Operative Builders
+2024-08-07,NOW,0,0.0,0.0,156.0,0,0.0,0.0,Chief People Officer,5.0,Services,Business Services
+2024-08-07,CGNX,1,3.6793340412704048,77.24,2000.0,0,0.0,0.0,Director,21.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,ADP,0,0.0,0.0,7932.75,0,3.6793340412704048,0.0,Corp VP,50.0,Services,Business Services
+2024-08-07,AMBC,1,2.469793011977952,270.5,25000.0,0,0.0,3.6793340412704048,Director,250.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,SNEX,-1,4.342375829044089,-303.56,-4000.0,0,2.469793011977952,0.0,Subsidiary CEO,-2.0,"Finance, Insurance, And Real Estate","Security And Commodity Brokers, Dealers, Exchanges, And Services"
+2024-08-07,PLNT,0,3.0091419604639085,123.79,6424.0,0,4.342375829044089,2.469793011977952,"SVP, Chief Accounting Officer",95.0,Services,Amusement And Recreation Services
+2024-08-07,SNX,0,3.842458542042237,68.916,1510.0,0,3.0091419604639085,4.342375829044089,Chief Financial Officer,3.0,Services,Business Services
+2024-08-07,IMMR,0,2.418588768750352,-201.285,-19676.0,0,3.842458542042237,3.0091419604639085,"Director, President and CEO",-1.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,SNX,-1,4.71492104994721,-1265.375,-11441.0,0,2.418588768750352,3.842458542042237,Chief Financial Officer,-20.0,Services,Business Services
+2024-08-07,CBT,0,3.933980172780188,1166.26,23274.0,0,4.71492104994721,2.418588768750352,"Executive Vice President, CFO",48.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,BL,0,2.70805020110221,140.0,10000.0,0,3.933980172780188,4.71492104994721,CHIEF LEGAL AND ADMINISTRATIVE,9.0,Services,Business Services
+2024-08-07,ADP,0,0.0,0.0,2562.216,0,2.70805020110221,3.933980172780188,Corp. VP,54.0,Services,Business Services
+2024-08-07,FSLR,-1,5.382198850528739,-382.339,-1766.0,0,0.0,2.70805020110221,VP - Global Controller and CAO,-78.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-07,NOW,0,0.0,0.0,410.0,0,5.382198850528739,0.0,Chief Financial Officer,4.0,Services,Business Services
+2024-08-07,ADP,0,0.0,0.0,16626.57,0,0.0,5.382198850528739,Corp VP,84.0,Services,Business Services
+2024-08-07,STX,-1,4.559021529962111,-1889.8,-20000.0,0,0.0,0.0,"Director, Chief Executive Officer",-3.0,Manufacturing,Industrial And Commercial Machinery And Computer Equipment
+2024-08-07,AFL,-1,4.604570005916059,-197.88,-2000.0,0,4.559021529962111,0.0,Director,-10.0,"Finance, Insurance, And Real Estate",Insurance Carriers
+2024-08-07,HFFG,0,0.0,0.0,9709.0,0,4.604570005916059,4.559021529962111,Director,inf,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,MRAM,-1,1.8562979903656263,-7.074,-1310.0,0,0.0,4.604570005916059,"Director, PRESIDENT AND CEO",0.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-07,LL,0,0.6097655716208942,-0.148,-176.0,0,1.8562979903656263,0.0,SVP Merch & Supply Chain,0.0,Retail Trade,"Building Materials, Hardware, Garden Supply, And Mobile Home Dealers"
+2024-08-07,NKE,-1,4.302442155331039,-394.281,-5410.0,0,0.6097655716208942,1.8562979903656263,EVP: CFO,-24.0,Manufacturing,Rubber And Miscellaneous Plastics Products
+2024-08-07,CACC,-1,6.168438497575341,-952.88,-2000.0,0,4.302442155331039,0.6097655716208942,Chief Sales Officer,-33.0,"Finance, Insurance, And Real Estate",Non-depository Credit Institutions
+2024-08-07,POST,-1,4.733915141878653,-72.154,-640.0,0,6.168438497575341,4.302442155331039,"PRES & CEO, PCB",-1.0,Manufacturing,Food And Kindred Products
+2024-08-07,SPGI,-1,6.186702329168483,-3297.691,-6796.0,0,4.733915141878653,6.168438497575341,"Director, President, S&P Global Ratings",-51.0,Manufacturing,"Printing, Publishing, And Allied Industries"
+2024-08-07,TT,-1,5.79806182030321,-593.231,-1805.0,0,6.186702329168483,4.733915141878653,Executive Vice President,-2.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,EXP,0,4.532061714167453,164.499,1789.0,0,5.79806182030321,6.186702329168483,Director,3.0,Manufacturing,"Stone, Clay, Glass, And Concrete Products"
+2024-08-07,EXP,0,5.476505392060385,-164.465,-691.0,0,4.532061714167453,5.79806182030321,Director,-1.0,Manufacturing,"Stone, Clay, Glass, And Concrete Products"
+2024-08-07,MSI,-1,6.015376367154295,-2807.991,-6870.88,0,5.476505392060385,4.532061714167453,"SVP, GENERAL COUNSEL",-35.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-07,FNA,0,0.0,0.0,374507.0,0,6.015376367154295,5.476505392060385,See Remarks,112465.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,CUBE,-1,3.900962058068721,-1792.65,-37000.0,0,0.0,6.015376367154295,"Director, CEO",-4.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,IRM,0,0.0,0.0,-100000.0,0,3.900962058068721,0.0,Director,-7.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,PBF,1,3.623540612805596,2662.31,73000.0,0,0.0,3.900962058068721,"10% Owner, Add'l Rep. Persons-see Ex.99-1",0.0,Manufacturing,Petroleum Refining And Related Industries
+2024-08-07,OBIO,0,0.0,0.0,12864.0,0,3.623540612805596,0.0,Director,inf,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,TALO,1,2.431857428698185,6747.0,650000.0,0,0.0,3.623540612805596,"10% Owner, Add'l Rep. Persons-see Ex.99-1",2.0,Mining,Oil And Gas Extraction
+2024-08-07,K,-1,4.317621437981545,-5757.978,-77800.0,0,2.431857428698185,0.0,10% Owner,0.0,Manufacturing,Food And Kindred Products
+2024-08-07,MSI,0,5.0571371277476755,1014.91,6500.0,0,4.317621437981545,2.431857428698185,"SVP, GENERAL COUNSEL",66.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-07,MSI,-1,6.009083419196435,-28071.542,-69123.0,0,5.0571371277476755,4.317621437981545,"Director, Chairman and CEO",-14.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-07,MSI,0,4.213164097564083,4601.518,69123.0,0,6.009083419196435,5.0571371277476755,"Director, Chairman and CEO",18.0,Manufacturing,"Electronic And Other Electrical Equipment And Components, Except Computer Equipment"
+2024-08-07,UHS,-1,5.3618084643292345,-180.293,-850.0,0,4.213164097564083,6.009083419196435,Director,-30.0,Services,Health Services
+2024-08-07,PAYC,-1,5.081342251254203,-623.961,-3900.0,0,5.3618084643292345,4.213164097564083,"Director, CEO, President and Chairman, 10% Owner",0.0,Services,Business Services
+2024-08-07,VCEL,-1,3.849083205654272,-321.65,-7000.0,0,5.081342251254203,5.3618084643292345,Director,-37.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,VCYT,-1,3.4011973816621555,-145.0,-5000.0,0,3.849083205654272,5.081342251254203,Director,-15.0,Services,Health Services
+2024-08-07,EPRT,-1,3.403860499081639,-185.298,-6372.0,0,3.4011973816621555,3.849083205654272,EVP & Head of Investments,-21.0,"Finance, Insurance, And Real Estate",Holding And Other Investment Offices
+2024-08-07,KLAC,-1,6.608850466507875,-3970.517,-5361.0,0,3.403860499081639,3.4011973816621555,EVP & Chief Financial Officer,-13.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,CUTR,0,0.7080357930536961,-15.633,-15178.0,0,6.608850466507875,3.403860499081639,"Director, Chief Executive Officer",-5.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,JMSB,0,2.547098670044448,23.54,2000.0,0,0.7080357930536961,6.608850466507875,Director,0.0,"Finance, Insurance, And Real Estate",Depository Institutions
+2024-08-07,KLAC,-1,6.608850466507875,-1509.404,-2038.0,0,2.547098670044448,0.7080357930536961,Executive Vice President,-12.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,VCEL,0,1.556037135706985,26.18,7000.0,0,6.608850466507875,2.547098670044448,Director,101.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,RXRX,0,0.0,0.0,50000.0,0,1.556037135706985,6.608850466507875,"Director, Chief Executive Officer",7.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,GEHC,-1,4.404032714936497,-222.145,-2750.0,0,0.0,1.556037135706985,"CEO, Patient Care Solutions",-14.0,Manufacturing,"Measuring, Analyzing, And Controlling Instruments; Photographic, Medical And Optical Goods; Watches And Clocks"
+2024-08-07,FTDR,-1,3.8245024078986507,-515.315,-11500.0,0,4.404032714936497,0.0,"SVP, CLO & Secretary",-42.0,Services,Business Services
+2024-08-07,VMEO,1,1.7351891177396608,149.678,32051.0,0,3.8245024078986507,4.404032714936497,"Director, Chief Executive Officer",2.0,Services,Business Services
+2024-08-07,ONVO,0,0.0,0.0,19607.0,0,1.7351891177396608,3.8245024078986507,Director,100.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,ONVO,0,0.0,0.0,19607.0,0,0.0,1.7351891177396608,Director,50.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,ONVO,0,0.0,0.0,19607.0,0,0.0,0.0,Director,50.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,NONE,1,2.395164274287139,0.054,5.3821,0,0.0,0.0,See Explanation of Responses,1.0,-1,-1
+2024-08-07,ONVO,0,0.0,0.0,19607.0,0,2.395164274287139,0.0,Director,38.0,Manufacturing,Chemicals And Allied Products
+2024-08-07,NONE,1,2.517696472610991,0.446,39.1526,0,0.0,2.395164274287139,See Explanation of Responses,1.0,-1,-1
+2024-08-07,NONE,1,2.423031246069913,1.0,97.2763,0,2.517696472610991,0.0,See Explanation of Responses,6.0,-1,-1
+2024-08-07,WW,1,0.5596157879354227,48.75,65000.0,0,2.423031246069913,2.517696472610991,Chief Executive Officer,32.0,Services,Personal Services
