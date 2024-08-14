@@ -1,4 +1,6 @@
 # model_training.py
+# The core task of the model is to predict the future logarithm of the stock's price per share 
+# based on a range of features derived from insider trading data. 
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
@@ -8,7 +10,7 @@ import joblib
 def load_features():
     try:
         # Load engineered features from the Parquet file
-        features = pd.read_parquet('/data/processed/features.parquet', engine='pyarrow')
+        features = pd.read_parquet('data\\processed\\features.parquet', engine='pyarrow')
         return features
     except FileNotFoundError:
         print("Feature file not found. Ensure that feature_engineering.py has been run successfully.")
@@ -60,7 +62,7 @@ def train_model(features):
 
 def save_model(model):
     # Save the trained model to a file using joblib
-    joblib.dump(model, '/models/stock_prediction_model.pkl')
+    joblib.dump(model, 'models\\stock_prediction_model.pkl')
     print("Model saved to stock_prediction_model.pkl.")
 
 if __name__ == "__main__":

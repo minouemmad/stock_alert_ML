@@ -57,10 +57,10 @@ if __name__ == "__main__":
             
             feature_data.to_parquet('features.parquet', engine='pyarrow')
             # Save engineered features in various formats except HDF5
-            feature_data.to_csv('/data/processed/features.csv', index=False)
-            feature_data.to_pickle('/data/processed/features.pkl')
-            feature_data.to_parquet('/data/processed/features.parquet')
-            feature_data.to_feather('/data/processed/features.feather')
+            feature_data.to_csv('data\\processed\\features.csv', index=False)
+            feature_data.to_pickle('data\\processed\\features.pkl')
+            feature_data.to_parquet('data\\processed\\features.parquet')
+            feature_data.to_feather('data\\processed\\features.feather')
             
             print("Feature engineering completed and data saved in multiple formats.")
         
