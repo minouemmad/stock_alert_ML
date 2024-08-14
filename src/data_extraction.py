@@ -1,7 +1,7 @@
-#data_extraction.py
 import pandas as pd
 import psycopg2
 import os
+from sklearn.model_selection import train_test_split
 
 def fetch_data():
     conn = psycopg2.connect(
@@ -31,16 +31,21 @@ def fetch_data():
         major_group
     FROM processed_listings
     ORDER BY trade_date DESC
-    LIMIT 500
+    LIMIT 500000
     """
     
     df = pd.read_sql_query(query, conn)
     conn.close()
-    return df
+    
+    # Split the data into training and testing sets
+    train_df, test_df = train_test_split(df, test_size=0.2, random_state=42, shuffle=False)
+    
+    return train_df, test_df
 
 if __name__ == "__main__":
-    data = fetch_data()
+    train_data, test_data = fetch_data()
     
-    # Save data to Pickle format
-    data.to_pickle('/data/raw/insider_trading_data.pkl')
-    print("Data saved to Pickle format.")
+    # Save training and testing data to Pickle format
+    train_data.to_pickle('data\\raw\\insider_trading_train.pkl')
+    test_data.to_pickle('data\\raw\\insider_trading_test.pkl')
+    print("Training and testing data saved to Pickle format.")

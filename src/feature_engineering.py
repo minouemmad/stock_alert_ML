@@ -45,22 +45,36 @@ def engineer_features(df):
 
 if __name__ == "__main__":
     # Check if the environment variables are set
-    if not os.path.exists('insider_trading_data.pkl'):
+    if not os.path.exists('data\\raw\\insider_trading_train.pkl'):
         print("Pickle file not found. Ensure that data_extraction.py has been run successfully.")
     else:
         try:
             # Read data from Pickle file
-            data = pd.read_pickle('insider_trading_data.pkl')
+            data = pd.read_pickle('data\\raw\\insider_trading_train.pkl')
             
             # Engineer features
             feature_data = engineer_features(data)
             
             feature_data.to_parquet('features.parquet', engine='pyarrow')
             # Save engineered features in various formats except HDF5
-            feature_data.to_csv('data\\processed\\features.csv', index=False)
-            feature_data.to_pickle('data\\processed\\features.pkl')
-            feature_data.to_parquet('data\\processed\\features.parquet')
-            feature_data.to_feather('data\\processed\\features.feather')
+            # File paths
+            csv_path = 'data\\processed\\features.csv'
+            pkl_path = 'data\\processed\\features.pkl'
+            parquet_path = 'data\\processed\\features.parquet'
+            feather_path = 'data\\processed\\features.feather'
+
+            # Overwrite the preexisting files
+            feature_data.to_csv(csv_path, index=False)
+            print(f"CSV file saved: {csv_path}")
+
+            feature_data.to_pickle(pkl_path)
+            print(f"Pickle file saved: {pkl_path}")
+
+            feature_data.to_parquet(parquet_path)
+            print(f"Parquet file saved: {parquet_path}")
+
+            feature_data.to_feather(feather_path)
+            print(f"Feather file saved: {feather_path}")
             
             print("Feature engineering completed and data saved in multiple formats.")
         
